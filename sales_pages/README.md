@@ -1,6 +1,6 @@
 # 🏪 小宝数字产品商店
 
-> 📦 11 款产品 | 🕐 03-13 06:07
+> 📦 12 款产品 | 🕐 03-13 07:55
 
 💳 USDT: `0xE36064285079346558EeC127C33d7a945c722539`
 
@@ -11,6 +11,7 @@
 - [foresight-pro](foresight-pro.md)
 - [freqtrade-bot-pro](freqtrade-bot-pro.md)
 - [introduction-to-quantitative-finance-pro](introduction-to-quantitative-finance-pro.md)
+- [investing-algorithm-framework-pro](investing-algorithm-framework-pro.md)
 - [openalice-pro](openalice-pro.md)
 - [pandas-ta-classic-pro](pandas-ta-classic-pro.md)
 - [pkscreener-pro](pkscreener-pro.md)
