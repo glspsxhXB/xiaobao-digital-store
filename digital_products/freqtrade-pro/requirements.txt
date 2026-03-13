@@ -1,0 +1,6 @@
+# Core dependencies
+asyncio
+logging
+typing
+dataclasses
+abc
